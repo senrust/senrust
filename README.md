@@ -5,7 +5,7 @@ Embedded software enginner specializing in robot and moter control.
 More than 4 years experience in embedded software field.  
 - Robot control software  
   6-DoF robot, SCALA robot and others used in many field   
-  (Car, Semiconductor or other manufacturing) 
+  (Automotive, Semiconductor or other manufacturing) 
 - Moter control software (EtherCAT, Mechatrolink, CC-Link TSN and Pulse Servo)
 - Indutrial communication software (Field Bus and PLC(Mitsubishi, Keyence, Yokogawa))
 - Industrial data analysis(Anomaly detection and recommendation)
